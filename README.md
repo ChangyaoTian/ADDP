@@ -13,9 +13,9 @@ Image recognition and generation have long been developed independently of each 
 
 ## Method
 
-<img style="display: block; margin: 0 auto" width="80%" alt="image" src="./figures/training_pipeline.png">
+<p align="center"><img width="80%" alt="image" src="./figures/training_pipeline.png"></p>
 
-<img style="display: block; margin: 0 auto" width="50%" alt="image" src="./figures/inference_pipeline.png">
+<p align="center"><img width="50%" alt="image" src="./figures/inference_pipeline.png"></p>
 
 
 
