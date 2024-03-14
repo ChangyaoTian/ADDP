@@ -1,5 +1,5 @@
 # ADDP
-The official implementation of the [paper]((https://arxiv.org/abs/2306.05423)) "ADDP: Learning General Representations for Image Recognition and Generation with Alternating Denoising Diffusion Process" (ICLR 2024).
+The official implementation of the [paper](https://arxiv.org/abs/2306.05423) "ADDP: Learning General Representations for Image Recognition and Generation with Alternating Denoising Diffusion Process" (ICLR 2024).
 
 The code will be released in this month (03/2024).
 
@@ -13,9 +13,9 @@ Image recognition and generation have long been developed independently of each 
 
 ## Method
 
-<img align="center" width="80%" alt="image" src="./figures/training_pipeline.png">
+<img style="display: block; margin: 0 auto" width="80%" alt="image" src="./figures/training_pipeline.png">
 
-<img align="center" width="50%" alt="image" src="./figures/inference_pipeline.png">
+<img style="display: block; margin: 0 auto" width="50%" alt="image" src="./figures/inference_pipeline.png">
 
 
 
