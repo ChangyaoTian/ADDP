@@ -1,0 +1,10 @@
+exp/
+**/__pycache__/
+*.pth
+batchscript-*
+phoenix-slurm-*
+.ipynb_checkpoints/
+.idea/
+.vscode/
+
+*.tmp
